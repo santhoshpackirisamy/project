@@ -60,5 +60,6 @@
   },
   "ember-addon": {
     "configPath": "tests/dummy/config"
-  }
+  },
+  "homepage": "https://santhoshpackirisamy.github.io/project"
 }
